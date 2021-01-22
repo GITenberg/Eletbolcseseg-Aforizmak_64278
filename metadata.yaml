@@ -1,0 +1,30 @@
+_repo: Eletbolcseseg-Aforizmak_64278
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kelen, Ferenc
+    gutenberg_agent_id: '52834'
+    url: http://www.gutenberg.org/2009/agents/52834
+creator:
+  author:
+    agent_name: Schopenhauer, Arthur
+    birthdate: 1788
+    deathdate: 1860
+    gutenberg_agent_id: '3648'
+    url: http://www.gutenberg.org/2009/agents/3648
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
+description: ''
+gutenberg_issued: '2021-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64278'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Életbölcseség
+
+  Aforizmák'
+url: http://www.gutenberg.org/ebooks/64278
